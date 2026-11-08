@@ -1,9 +1,9 @@
 ### Hi, I'm Mattia 👋
 
-MSc student in **Applied Data Science for Banking & Finance** (Università Cattolica, Milan/Brescia), currently on exchange at **RMIT University, Melbourne**.
+MSc student in **Applied Data Science for Banking & Finance** (Università Cattolica del Sacro Cuore, Brescia — expected July 2027), with an exchange semester at **RMIT University, Melbourne**.
 I work where markets meet data: portfolio construction, risk measurement and empirical asset pricing, built in Python with tests and reproducible results.
 
-**Looking for:** an internship in quantitative finance / investments / risk from **January 2027** (Milan · Switzerland · Paris).
+**Looking for:** an internship in quantitative finance / investments / risk from **January 2027** (Milan · Switzerland · across Europe).
 
 #### Featured projects
 
