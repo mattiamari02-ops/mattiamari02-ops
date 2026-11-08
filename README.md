@@ -3,7 +3,7 @@
 MSc student in **Applied Data Science for Banking & Finance** (Università Cattolica del Sacro Cuore, Brescia — expected July 2027), with an exchange semester at **RMIT University, Melbourne**.
 I work where markets meet data: portfolio construction, risk measurement and empirical asset pricing, built in Python with tests and reproducible results.
 
-**Looking for:** an internship in quantitative finance / investments / risk from **January 2027** (Milan · Switzerland · across Europe).
+**Looking for:** an internship in quantitative finance / investments / risk from **January 2027** (Italy · across Europe).
 
 #### Featured projects
 
@@ -14,6 +14,6 @@ I work where markets meet data: portfolio construction, risk measurement and emp
 | [ESG Long-Short Factor Analysis](https://github.com/mattiamari02-ops/esg-long-short-factor-analysis) | High- vs Low-ESG S&P 500 portfolios 2011–2024, Carhart regressions with Newey-West errors, robustness checks |
 
 **Toolbox:** Python (pandas, NumPy, SciPy, statsmodels, matplotlib, PyTorch) · Excel financial modelling (Solver) · LSEG Workspace · Git
-**Languages:** Italian (native) · English (B2, IELTS 6) · Spanish (B1)
+**Languages:** Italian (native) · English (Fluent) · Spanish (Intermediate)
 
 📫 mattiamari02@gmail.com · [LinkedIn](https://www.linkedin.com/in/mattia-mari02)
